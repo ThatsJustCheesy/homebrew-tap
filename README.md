@@ -4,7 +4,7 @@ This is my [custom tap repository](https://docs.brew.sh/Taps) for [Homebrew](htt
 
 ## Add to [Overt](https://getovert.app)
 
-<a href="https://getovert.app/open?action=overt:brew%3F1=add-source-repository%261[name]=thatsjustcheesy/homebrew-tap%261[url]=https://github.com/thatsjustcheesy/homebrew-tap"><img src="https://getovert.app/images/overt-badge.png" width="220"/></a>
+<a href="https://getovert.app/open?action=overt:brew%3F1=add-source-repository%261[name]=thatsjustcheesy/homebrew-tap%261[url]=https://github.com/thatsjustcheesy/homebrew-tap"><img src="https://getovert.app/images/overt-badge.png" width="240"/></a>
 
 ## Add on command line
 
