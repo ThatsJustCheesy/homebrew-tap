@@ -1,7 +1,7 @@
 cask "defaults-edit" do
-  version "0.4.0"
-  tagged_version = "#{version}_1"
-  sha256 "9ee9ebffb4f9d07450f901502d10a48e82b5f01f6a47d1ca462ad17e19c64373"
+  version "0.5.0"
+  tagged_version = "#{version}"
+  sha256 "cb0caa06678d868bc4bf2d1ccdb88b82dc0c3cd4455c1c91b5d18c954d9d0701"
 
   url "https://github.com/ThatsJustCheesy/defaults-edit/releases/download/v#{tagged_version}/defaults-edit.v#{version}.zip"
 
@@ -18,5 +18,6 @@ cask "defaults-edit" do
 
   zap trash: [
     "~/Library/Preferences/com.justcheesy.defaults-edit.plist",
+    "~/Library/Preferences/ca.igregory.defaults-edit.plist",
   ]
 end
