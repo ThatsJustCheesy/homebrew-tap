@@ -1,7 +1,7 @@
 cask "defaults-edit" do
-  version "0.5.0"
+  version "0.6.0"
   tagged_version = "#{version}"
-  sha256 "cb0caa06678d868bc4bf2d1ccdb88b82dc0c3cd4455c1c91b5d18c954d9d0701"
+  sha256 "90170da76404ff8bdf3da80920bf3f1ed49d523eddd52ac0bfb57dc9f95be929"
 
   url "https://github.com/ThatsJustCheesy/defaults-edit/releases/download/v#{tagged_version}/defaults-edit.v#{version}.zip"
 
